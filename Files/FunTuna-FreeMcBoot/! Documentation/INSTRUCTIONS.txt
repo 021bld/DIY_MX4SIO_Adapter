@@ -1,0 +1,30 @@
+How to install:
+1 - Copy the "FunTuna.psu" to a pendrive.
+2 - In your PS2, launch uLaunchELF(*).
+3 - In uLE go to "File Browser", then "mass:/" and then look for the "FunTuna.psu" file and highlight it.
+4 - Press R1, then "Copy". (Check if there's a green label in the top right corner, if it is NOT there, then try pressing O instead of X or X instead of O when you select the "Copy" option).
+5 - Go to ".." then go to "mc0:/".
+6 - If you hava a folder called "FORTUNA", highlight it, press R1 and select "Delete"
+7 - Check there's at least 2.60MB of free space in your Memory Card (check at the top).
+8 - Press R1 and then select "psuPaste".
+9 - Wait until it finishes, the reboot your console.
+
+(*) We advise to use the specific uLE version provided here (WorkingULE.ELF) as we noticed that some uLE and wLE builds out there fails to properly set the timestamp.
+
+How to execute:
+FunTuna does not AutoBoots with your console. You need to run it every time you turn on your PS2.
+Doing it is quite simple:
+1 - Go to the PS2 Browser, then open your 1st memory card and you will see an invisible icon.
+2 - Press O to go back (or X if your console is Asian)
+3 - You will see that the memory card icons are now transparent. Press O (or X) to go back again and done.
+
+How to copy from one Memory Card to another:
+1 - Be sure there's no Fortuna saves on the Memory Card where you want to copy FunTuna. Also, be sure your PS2 haves the actual date and that there are no saves with futuristic timestamp on the Memory Card where you want to copy FunTuna. Else, you can set the date to the future temporary.
+2 - Place the Memory Card where FunTuna is in the slot 1. Place the another one in the slot 2.
+3 - Turn on your console and go to the PS2 Browser and then enter the first Memory Card.
+4 - Select the transparent icon and copy it from the Memory Card in slot 1 to the Memory Card in slot 2
+5 - After the copy finishes, shut down your console
+6 - Take the Memory Card from slot 2 and place it in slot 1
+7 - Boot FunTuna as usual
+8 - Go to the Free McBoot Configurator
+9 - Select "Save CNF to MC0". Now the FunTuna timestamp in the new Memory Card is set to 2099-12-31 23:59:59, the highest available on the PS2. If you changed your PS2's date for some reason, you can now set it back to the real actual date.

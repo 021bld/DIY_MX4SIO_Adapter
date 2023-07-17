@@ -1,0 +1,2 @@
+FunTuna is just for use in Slim PS2 consoles.
+Just like the original Fortuna project, once FunTuna is installed on your Memory Card, it is advised to NOT use it on a FAT PS2 console or it could damage the savedatas inside your Memory Card. If you want to use that Memory Card on these kind of consoles, just delete FunTuna or Fortuna and done.

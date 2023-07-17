@@ -1,0 +1,20 @@
+FunTuna Project's Credits:
+
+Original Projects:
+- Fortuna Project: krat0s
+- Free McBoot: jimmikaelkael and neme
+- Free McBoot Configurator: suloku
+- uLaunchELF: EP, dlanor and mirakichi
+
+Modified Homebrew:
+- Fortuna Project mod: AlKa-Rajo
+- Free McBoot, Free McBoot Configurator and uLaunchELF mods: Howling Wolf & Chelsea
+
+Other homebrews in this package:
+- ESR: ffgriever
+- OpenPS2Loader: Ifcaro, volca, jimmikaelkael, polo35, izdubar, hominem.te.esse, SP193, BatRastard, crazyc, dlanor, doctorxyz, reprep, belek666, Maximus32, misfire, Berion, RandQalan, yoshi314, EP, LocalH, lee4, El_Patas, ShaolinAssassin, algol, gledson999, jolek, zero35, Eugene Plotnikov, Marcus R. Brown, icyson55, Eric Young, fjtrujy
+- Simple Media System: Eugene Plotnikov
+- Power Off: SP193
+
+Special Thanks: uyjulian, fjtrujy
+BETA Testing team: Birdatoo, Duncan Idaho, Haker120 (a youkai of love), LourdesAnn (Snow), NightBreeze, Samus2K (T-Virus), Senyuki, theANY, TnA, Venão, Versatile, Webzen
